@@ -16,15 +16,6 @@
 
 ---
 
-## 👥 Team Information & Roles
-
-- **Team Name**: Crafterstudio
-- **Team Lead Name**: Bhavit Jangra (Double-checked for certificates)
-- **Roles & Responsibilities**:
-  - **Full-Stack SaaS Architecture & React OS**: Bhavit Jangra (Team Lead)
-  - **AI DineSense Engine & Real-Time State Pipeline**: Crafterstudio Dev Team
-  - **UI/UX Aesthetics & Pure Veg Gourmet Design**: Crafterstudio Design Team
-
 ---
 
 ## 🚀 Key Features
